@@ -79,16 +79,16 @@ Given an undirected (generally complete) weighted graph, what is the shortest po
 <p>In a more visual sense, this corresponds to taking a route that crosses over itself and reordering it so that it does not.</p>
 
 <p align ="center">
-<video src="https://user-images.githubusercontent.com/67233931/182415199-8961870a-2ed0-4c03-9260-53152e8c04fb.mp4"></video>
-</p>
-
-<p align ="center">
-<img src="images/2-opt.png" width="270" height="360" style="background-color:white;"/>
+<img src="images/2-opt.png"/>
 </p>
 
 ### Code Details
 
 In the [code](simulatedAnnealing.ipynb), I've simulated the solving of TSP for 100 random nodes in a 3D space, by performing 4000 iterations of simulated annealing. You can observe a decrease in the sum of the paths chosen as the number of iterations increase.
+
+<p align ="center">
+<video src="https://user-images.githubusercontent.com/67233931/182415199-8961870a-2ed0-4c03-9260-53152e8c04fb.mp4"></video>
+</p>
 
 <p align ="center">
 <img src="images/SA.png"/>
@@ -111,3 +111,4 @@ In the [code](simulatedAnnealing.ipynb), I've simulated the solving of TSP for 1
 * http://www.new-npac.org/projects/cdroms/cewes-1999-06-vol1/cps615course/csematerials/applications/mc/montecarlo/node140.html
 * https://github.com/chncyhn/simulated-annealing-tsp
 * https://en.wikipedia.org/wiki/2-opt
+* http://pedrohfsd.com/2017/08/09/2opt-part1.html

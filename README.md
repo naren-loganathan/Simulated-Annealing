@@ -79,6 +79,10 @@ Given an undirected (generally complete) weighted graph, what is the shortest po
 <p>In a more visual sense, this corresponds to taking a route that crosses over itself and reordering it so that it does not.</p>
 
 <p align ="center">
+https://user-images.githubusercontent.com/67233931/182415199-8961870a-2ed0-4c03-9260-53152e8c04fb.mp4
+</p>
+
+<p align ="center">
 <img src="images/2-opt.png" width="270" height="360" style="background-color:white;"/>
 </p>
 

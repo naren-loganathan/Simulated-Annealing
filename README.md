@@ -87,7 +87,7 @@ Given an undirected (generally complete) weighted graph, what is the shortest po
 In the [code](simulatedAnnealing.ipynb), I've simulated the solving of TSP for 100 random nodes in a 3D space, by performing 4000 iterations of simulated annealing. You can observe a decrease in the sum of the paths chosen as the number of iterations increase.
 
 <p align ="center">
-<video src='animation.mp4' />
+<video src='animation.mp4'></video>
 </p>
 
 <p align ="center">
